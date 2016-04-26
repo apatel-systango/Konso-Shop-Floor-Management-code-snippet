@@ -1,0 +1,1 @@
+# Konso Shop Floor Management code snippet.
